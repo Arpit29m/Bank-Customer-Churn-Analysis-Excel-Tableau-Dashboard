@@ -13,7 +13,7 @@ This project analyses bank customer churn using MS Excel for data cleaning and p
 - Interactive Filters
 - Dashboard Design
 
-  ## Objectives
+## Objectives
 - Measure overall customer churn and revenue at risk
 - Identify customer segments with the highest churn rates
 - Analyze churn by geography, age group, and card type
@@ -39,7 +39,7 @@ This project analyses bank customer churn using MS Excel for data cleaning and p
 - Lower satisfaction scores are strongly associated with increased churn.
 - Revenue at risk is highest in Germany due to elevated churn.
 
- ## Conclusion and Recommendations
+## Conclusion and Recommendations
 The analysis reveals that churn is concentrated among older customers, inactive members, customers with complaints, and those with low satisfaction scores. To reduce attrition, the bank should proactively address complaints, engage inactive customers, and launch targeted retention campaigns for high-risk segments, especially in Germany.
 
 ## Files Included
