@@ -1,0 +1,2 @@
+# Bank-Customer-Churn-Analysis-Excel-Tableau-Dashboard
+This project analyses bank customer churn using MS Excel for data cleaning &amp; preparation and Tableau for building an interactive dashboard. The dashboard identifies patterns in customer attrition across demographics, account activity, products, complaints, and satisfaction scores to help the bank reduce churn and retain valuable customers.
